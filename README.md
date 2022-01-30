@@ -1,2 +1,2 @@
 # machine-learning-algorithms-from-scratch
-A statistical study and implementation of some machine learning algorithms
+A study on the statistical and algorithmic component of classic machine learning algorithms.
